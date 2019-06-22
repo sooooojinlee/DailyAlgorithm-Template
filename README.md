@@ -28,7 +28,7 @@
 
 
 
-# This is my Daily Algoritm Repository
+# This is my Daily Algorithm Repository
 
 [github.com/MiryangJung/DailyAlgorithm](https://github.com/MiryangJung/DailyAlgorithm)
 
