@@ -35,7 +35,7 @@
 
 ### 온라인 저지 사이트 추천
 
-[알고리즘 공부하기 좋은 온라인 저지 사이트 추천](https://miryang.dev/2019/03/22/online-judge/)
+[알고리즘 공부하기 좋은 온라인 저지 사이트 추천](https://miryang.dev/2019/03/22/online-judge)
 
 <!-- Link -->
 [Two Sum]: https://leetcode.com/problems/two-sum/
