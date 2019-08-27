@@ -8,8 +8,8 @@
 
 # Roles
 
-1. 이 저장소를 Fork한다.
-  - Fork this Repository
+1. 이 저장소를 Fork 또는 Clone한다.
+  - Fork or  this Repository
 2. 온라인저지사이트에서 하루에 한 개의 알고리즘을 푼다.
   - Solving one algorithm
 3. 매일 README.md에 커밋해 기록한다.
