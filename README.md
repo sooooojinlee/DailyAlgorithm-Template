@@ -1,43 +1,33 @@
 
 # Daily Algoritm
 
-> 하루에 한 개의 알고리즘을 풀고, 기록하기 위한 문서 템플릿입니다.
+> * 2019/8/19~ 
+> * XXIT 알고리즘 왕 도전 기록 :1st_place_medal:
 
-> A document template for solving and recording one algorithm per day.
+* Problem Solving TIL은 [여기](https://github.com/dashwood424/TIL/tree/master/PS)로
 
+### 구름LEVEL :cloud:
 
-# Roles
+| Title | Solution | Difficulty | Date |
+| ----- | -------- | ---------- | ---- |
+| [불이야!!] | [C++](https://github.com/dashwood424/TIL/blob/master/PS/구름_불이야.cpp) | Easy | 19/08/19 |
+| [그룹 지정] | [C++](https://github.com/dashwood424/TIL/blob/master/PS/구름_그룹%20지정.cpp) | Easy | 19/08/21 |
+| [앵무새 꼬꼬] | [C++](https://github.com/dashwood424/TIL/blob/master/PS/구름_앵무새%20꼬꼬.cpp) | Easy | 19/08/21 |
+| [어려운 문제] | [C++]() | Easy | 19/08/22 |
+| [개미집합의 지름] | [C++]() | Medium | 19/08/23 |
+| [진법 변환] | [C++]() | Medium | 19/08/24 |
+| [거울 단어] | [C++]() | Medium | 19/08/25 |
+| [날짜순으로 메모를 정렬하라] | [C++]() | Hard | 19/08/26 |
+| [계수기 만들기] | [C++]() | Hard | 19/08/27 |
 
-1. 이 저장소를 Fork 또는 Clone한다.
-  - Fork or  this Repository
-2. 온라인저지사이트에서 하루에 한 개의 알고리즘을 푼다.
-  - Solving one algorithm
-3. 매일 README.md에 커밋해 기록한다.
-  - Commit to README.md every day
-
-
-# Example
-
-### LeetCode
-
-| Num | Title | Solution | Difficulty | Date |
-|-----| ----- | -------- | ---------- | ---- |
-| 1 | [Two Sum] | [Javascript]() | Easy | 19/06/22 |
-| 3 | [Longest Substring Without Repeating Characters] | [C++]() | Medium | 19/06/23 |
-| 9 | [Palindrome Number] | [Javascript]() | Easy | 19/06/22 |
-
-
-
-# This is my Daily Algorithm Repository
-
-[github.com/MiryangJung/DailyAlgorithm](https://github.com/MiryangJung/DailyAlgorithm)
-
-
-### 온라인 저지 사이트 추천
-
-[알고리즘 공부하기 좋은 온라인 저지 사이트 추천](https://miryang.dev/2019/03/22/online-judge)
 
 <!-- Link -->
-[Two Sum]: https://leetcode.com/problems/two-sum/
-[Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters
-[Palindrome Number]: https://leetcode.com/problems/palindrome-number/
+[불이야!!]: https://level.goorm.io/exam/49051/불이야/quiz/1
+[그룹 지정]: https://level.goorm.io/exam/49052/그룹-지정/quiz/1
+[앵무새 꼬꼬]: https://level.goorm.io/exam/49053/앵무새-꼬꼬/quiz/1
+[어려운 문제]: https://level.goorm.io/exam/49054/어려운-문제/quiz/1
+[개미집합의 지름]: https://level.goorm.io/exam/49060/개미-집합의-지름/quiz/1
+[진법 변환]: https://level.goorm.io/exam/49062/진법-변환/quiz/1
+[거울 단어]: https://level.goorm.io/exam/49066/거울-단어/quiz/1
+[날짜순으로 메모를 정렬하라]: https://level.goorm.io/exam/43062/날짜순으로-메모를-정렬하라/quiz/1
+[계수기 만들기]: https://level.goorm.io/exam/43061/계수기-만들기/quiz/1
